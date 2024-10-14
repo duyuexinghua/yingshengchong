@@ -1,0 +1,7 @@
+{
+    "点击纳物库" : {
+        "recognition" : "TemplateMatch",
+        "template" : "纳物库.png",
+        "action" : "Click"
+    }
+}
